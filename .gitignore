@@ -1,7 +1,7 @@
 /app.py
 /marketing_sample_for_amazon_com-ecommerce_products_details__20190601_20190630__30k_data.csv
-/movie_lsi_model_mm
-/movie_lsi_model_mm.index
-/movie_tfidf_model_mm
-/movie_tfidf_model_mm.index
+/products_lsi_model_mm
+/products_lsi_model_mm.index
+/products_tfidf_model_mm
+/products_tfidf_model_mm.index
 /style.css
